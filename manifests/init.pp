@@ -9,7 +9,7 @@
 # Copyright 2017 Adam Crews, unless otherwise noted.
 #
 # @param package_ensure Ensure the package is either present or absent. Default: present
-# @param package_name The name of the package to install. Default: Pound
+# @param package_name The name of the package to install. Default: pound
 # @param service_ensure Ensure the service is running or stopped.  Default: running
 # @param service_manage Manage the state of the service or not.  Default: true
 # @param config_name The path to the config file.  Default: /etc/pound.cfg
